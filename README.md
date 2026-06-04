@@ -141,6 +141,19 @@
 </table>
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Tanyaagarg&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+</div>
+
+---
+
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
