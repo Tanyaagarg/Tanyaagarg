@@ -1,154 +1,164 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=&fontSize=0" width="100%"/>
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 TANYA GARG · GitHub Profile README                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hey+there%2C+I'm+Tanya+Garg+%F0%9F%91%8B" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Final+Year+%40+TIET;Building+real+products+that+solve+real+problems;MERN+%C2%B7+Next.js+%C2%B7+AI+Integrations;142+LeetCode+problems+%7C+C%2B%2B+%7C+DSA" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:F472B6,100:C084FC&height=200&section=header&text=Tanya%20Garg&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanya-garg-custom/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tgarg1168@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/4ohBTKZn12/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanyaagarg)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1500&color=EC4899&center=true&vCenter=true&width=780&height=50&lines=Full-Stack+Developer+%7C+B.E.+ENC+%40+TIET;Building+scalable+MERN+%26+Next.js+applications;AI+integrations+%C2%B7+System+design+%C2%B7+DSA+in+C%2B%2B" alt="typing"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F23)](https://linkedin.com/in/tanya-garg-custom/)
+[![Email](https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F23)](mailto:tgarg1168@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-C084FC?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1F1F23)](https://leetcode.com/u/4ohBTKZn12/)
+[![GitHub](https://img.shields.io/badge/GitHub-D946EF?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1F23)](https://github.com/Tanyaagarg)
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## About Me
 
-### 🧬 About Me
+<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```
-🎓  B.E. Electronics & Computer Eng @ TIET (2027)
-💻  Full-Stack Dev — MERN · Next.js · REST APIs
-🤖  Building AI-powered SaaS & campus platforms
-⚔️  142 problems solved on LeetCode (C++)
-🧠  Strong in DSA · OOP · DBMS · OS · CN
-🌱  Currently: System Design & advanced Next.js
-⚡  Fun fact: I ship apps, not just code
-```
+I'm a final-year Electronics & Computer Engineering student at **Thapar Institute of Engineering & Technology**, focused on building full-stack products that solve real problems.
+
+- 🎓 **B.E. Electronics & Computer Engineering (ENC)** — TIET, Class of 2027
+- 💻 Full-stack development with **MERN**, **Next.js**, and REST APIs
+- 🤖 Currently building **AI-powered SaaS** platforms and campus tools
+- 🧩 **280+ problems solved** on LeetCode using C++
+- 📚 Strong fundamentals in DSA, OOP, DBMS, OS & Computer Networks
+- 🌱 Currently exploring **System Design** and advanced Next.js patterns
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EC4899?style=flat-square&logo=javascript&logoColor=white&labelColor=1F1F23)
+![Python](https://img.shields.io/badge/Python-F472B6?style=flat-square&logo=python&logoColor=white&labelColor=1F1F23)
+![C++](https://img.shields.io/badge/C%2B%2B-C084FC?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1F1F23)
+![HTML5](https://img.shields.io/badge/HTML5-D946EF?style=flat-square&logo=html5&logoColor=white&labelColor=1F1F23)
+![CSS3](https://img.shields.io/badge/CSS3-F9A8D4?style=flat-square&logo=css3&logoColor=white&labelColor=1F1F23)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-EC4899?style=flat-square&logo=react&logoColor=white&labelColor=1F1F23)
+![Next.js](https://img.shields.io/badge/Next.js-F472B6?style=flat-square&logo=next.js&logoColor=white&labelColor=1F1F23)
+![Tailwind](https://img.shields.io/badge/Tailwind-C084FC?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1F1F23)
+![Vite](https://img.shields.io/badge/Vite-D946EF?style=flat-square&logo=vite&logoColor=white&labelColor=1F1F23)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-F9A8D4?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1F1F23)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-EC4899?style=flat-square&logo=node.js&logoColor=white&labelColor=1F1F23)
+![Express](https://img.shields.io/badge/Express-F472B6?style=flat-square&logo=express&logoColor=white&labelColor=1F1F23)
+![MongoDB](https://img.shields.io/badge/MongoDB-C084FC?style=flat-square&logo=mongodb&logoColor=white&labelColor=1F1F23)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D946EF?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F1F23)
+![JWT](https://img.shields.io/badge/JWT-F9A8D4?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1F1F23)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-EC4899?style=flat-square&logo=git&logoColor=white&labelColor=1F1F23)
+![GitHub](https://img.shields.io/badge/GitHub-F472B6?style=flat-square&logo=github&logoColor=white&labelColor=1F1F23)
+![VS Code](https://img.shields.io/badge/VS_Code-C084FC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1F1F23)
+![Postman](https://img.shields.io/badge/Postman-D946EF?style=flat-square&logo=postman&logoColor=white&labelColor=1F1F23)
+![Vercel](https://img.shields.io/badge/Vercel-F9A8D4?style=flat-square&logo=vercel&logoColor=white&labelColor=1F1F23)
 
 **CS Fundamentals**
 
-![DSA](https://img.shields.io/badge/DSA-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![DBMS](https://img.shields.io/badge/DBMS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![OS](https://img.shields.io/badge/OS_Concepts-555555?style=flat-square&logo=linux&logoColor=white)
-![CN](https://img.shields.io/badge/Computer_Networks-0077B5?style=flat-square&logo=cisco&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-8B5CF6?style=flat-square&logo=amazonaws&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-EC4899?style=flat-square&labelColor=1F1F23)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-F472B6?style=flat-square&labelColor=1F1F23)
+![DBMS](https://img.shields.io/badge/DBMS-C084FC?style=flat-square&labelColor=1F1F23)
+![OS](https://img.shields.io/badge/Operating_Systems-D946EF?style=flat-square&labelColor=1F1F23)
+![Networks](https://img.shields.io/badge/Computer_Networks-F9A8D4?style=flat-square&labelColor=1F1F23)
+![System Design](https://img.shields.io/badge/System_Design-EC4899?style=flat-square&labelColor=1F1F23)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [CampusLink](https://github.com/Tanyaagarg/CampusLink)
-> All-in-one campus companion for TIET students — ride-sharing, peer tutoring, marketplace, team finder & real-time chat
+### 🍜 [FoodQuery](https://github.com/Tanyaagarg/FoodQuery)
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)
+A full-stack food search platform with intuitive filtering, discovery, and a clean, fast query experience.
+
+![MERN](https://img.shields.io/badge/MERN-EC4899?style=flat-square&logo=mongodb&logoColor=white&labelColor=1F1F23)
+![REST API](https://img.shields.io/badge/REST_API-F472B6?style=flat-square&labelColor=1F1F23)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [TrustCart](https://github.com/Tanyaagarg/TrustCart)
-> E-commerce platform with AI-powered review spam detection — TF-IDF + Naive Bayes ML model served via REST API
+### 🎨 [Whiteboard](https://github.com/Tanyaagarg/Whiteboard)
 
-![MongoDB](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML_Model-F7931E?style=flat-square)
+A real-time collaborative whiteboard supporting live drawing, shapes, and multi-user synchronization over WebSockets.
+
+![React](https://img.shields.io/badge/React-C084FC?style=flat-square&logo=react&logoColor=white&labelColor=1F1F23)
+![Socket.io](https://img.shields.io/badge/Socket.io-D946EF?style=flat-square&logo=socket.io&logoColor=white&labelColor=1F1F23)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [NeuraFlow](https://github.com/Tanyaagarg/NeuraFlow)
-> AI-powered SaaS platform for real-time content generation with seamless workflows
+### 🛡️ [Sentinel](https://github.com/Tanyaagarg/Sentinel)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Integration-8B5CF6?style=flat-square)
+A monitoring and safety-layer application delivering real-time alerts, clean dashboards, and secure authentication.
+
+![Node.js](https://img.shields.io/badge/Node.js-EC4899?style=flat-square&logo=node.js&logoColor=white&labelColor=1F1F23)
+![JWT](https://img.shields.io/badge/JWT_Auth-F472B6?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1F1F23)
 
 </td>
 <td width="50%" valign="top">
 
-### 💪 [CoreTrack](https://github.com/Tanyaagarg/Fitness-Tracker)
-> Full-stack personal fitness tracker with workout logging, progress tracking & JWT-secured REST API
+### 📸 [SnapChef](https://github.com/Tanyaagarg/SnapChef)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000?style=flat-square&logo=jsonwebtokens)
+AI-powered recipe assistant that identifies ingredients from images and generates cooking suggestions in real time.
+
+![Next.js](https://img.shields.io/badge/Next.js-C084FC?style=flat-square&logo=next.js&logoColor=white&labelColor=1F1F23)
+![AI](https://img.shields.io/badge/AI_Integration-D946EF?style=flat-square&labelColor=1F1F23)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [DSA Tracker](https://github.com/Tanyaagarg/DSA-Tracker)
+
+A personal DSA progress tracker with topic tagging, difficulty breakdowns, streaks, and progress visualization.
+
+![React](https://img.shields.io/badge/React-EC4899?style=flat-square&logo=react&logoColor=white&labelColor=1F1F23)
+![MongoDB](https://img.shields.io/badge/MongoDB-F472B6?style=flat-square&logo=mongodb&logoColor=white&labelColor=1F1F23)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ [SQL Tracker](https://github.com/Tanyaagarg/SQL-Tracker)
+
+A focused SQL practice tracker that logs queries, tags concepts, and monitors mastery across joins and window functions.
+
+![SQL](https://img.shields.io/badge/SQL-C084FC?style=flat-square&logo=postgresql&logoColor=white&labelColor=1F1F23)
+![Node.js](https://img.shields.io/badge/Node.js-D946EF?style=flat-square&logo=node.js&logoColor=white&labelColor=1F1F23)
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Tanyaagarg&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
@@ -158,6 +168,10 @@
 
 *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tanyaagarg&label=Profile+Views&color=EC4899&style=for-the-badge"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:F472B6,100:EC4899&height=120&section=footer" width="100%"/>
